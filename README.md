@@ -1,5 +1,7 @@
 # Sistema de Transporte
 
+ Alumnos participantes en este proyecto: Joaquín Ducos (64.891) Único integrante.
+
 ## Para qué sirve este trabajo
 
 Este sistema analiza rutas de transporte para encontrar la mejor manera de enviar la carga desde un lugar a otro. Calcula dos cosas importantes como cuál es la ruta más rápida y cuál es la más barata. Se pueden usar diferentes tipos de vehículos como trenes, camiones, barcos y aviones.
